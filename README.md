@@ -1,7 +1,7 @@
 ### Hi there 👋, Abraham Shimekt
 #### AI Enthusiast and Software Engineer
 
-My name is Abraham shimekt. I really interested in Machine Learning. I also build websites and mobile applications.I use django for backend development and for frontend I use mostly tailwind as css framework.I also build cross platform mobile applictions using flutter.
+I am Abraham Shimekt, and my enthusiasm for Machine Learning runs deep. In addition to my passion for ML, I have a knack for building websites and mobile applications. For backend development, I am proficient in using Django and Dotnet, while for frontend, I predominantly employ React.
 
 Skills: Web/ JS / HTML / CSS/spring boot/django/node/react/python/java/dart/C/c++/
 
