@@ -1,5 +1,5 @@
 ### Hi there 👋, Abraham Shimekt
-#### AI Enthusiast and Software Engineer
+#### Passionate AI Enthusiast and Skilled Software Engineer
 
 I am Abraham Shimekt, and my enthusiasm for Machine Learning runs deep. In addition to my passion for ML, I have a knack for building websites and mobile applications. For backend development, I am proficient in using Django and Dotnet, while for frontend, I predominantly employ React.
 
