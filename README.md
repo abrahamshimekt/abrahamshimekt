@@ -15,8 +15,10 @@ Welcome to my GitHub! I'm Abraham Shimekt, a dedicated frontend developer with a
   - SQL, MongoDB
   - REST API, tRPC, Prisma
 
-- **Full Stack Proficiency:**
+- **Mobile App Development:**
   - Flutter, Firebase
+    
+- **Machine Learning:**
   - Python (Scikit-learn, TensorFlow, PyTorch)
   - Natural Language Processing (NLP), Image Recognition
 
