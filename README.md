@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm Abraham Shimekt, a dedicated frontend developer with a
 
 ### 📈 GitHub Metrics
 
-![GitHub Metrics](https://metrics.lecoq.io/abrahamshimekt)
+![GitHub Metrics](https://metrics.lecoq.io/abrahamshimekt)  
 
 ### 🔥 GitHub Streak Stats
 
