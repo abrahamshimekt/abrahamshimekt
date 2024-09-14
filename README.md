@@ -11,12 +11,9 @@ Welcome to my GitHub! I'm Abraham Shimekt, a dedicated frontend developer with a
   - HTML, CSS, Tailwind CSS, Shadcn UI
 
 - **Backend Technologies:**
-  - Node.js, Express.js
+  - Node.js, Express.js,Django, Flask, FastApi
   - SQL, MongoDB
   - REST API, tRPC, Prisma
-
-- **Mobile App Development:**
-  - Flutter, Firebase
     
 - **Machine Learning:**
   - Python (Scikit-learn, TensorFlow, PyTorch)
