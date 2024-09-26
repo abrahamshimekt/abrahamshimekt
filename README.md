@@ -2,7 +2,9 @@
 
 ## Passionate Python .Net Core Node.js Express.js Next.js/React Developer
 
-Welcome to my GitHub! I'm Abraham Shimekt, a dedicated frontend developer with a strong focus on crafting seamless and engaging websites using Next.js and React. I bring a wealth of experience and a commitment to delivering high-quality solutions that meet and exceed expectations.
+💫𝗕𝗦𝗰(Great Distinction) 𝗶𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 (𝗔𝗜) with 5+ years of experience, I excel at crafting robust and user-focused cross-platform applications tailored for both startups and established enterprises.
+
+🎯 Committed to delivering exceptional results, I continuously aim to exceed client expectations, ensuring timely delivery and top-notch quality in every project undertaken.
 
 ### 🚀 Skills
 
