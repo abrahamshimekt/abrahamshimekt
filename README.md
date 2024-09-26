@@ -9,9 +9,9 @@
 🚀𝗦𝗞𝗜𝗟𝗟 𝗦𝗘𝗧:
 
 ✅ 𝗕𝗔𝗖𝗞 - 𝗘𝗡𝗗:
-🔸 Create efficient and Scalable APIs using Node.js, Express.js, C# (.NET), Python (Django, FastAPI). PHP(Laravel)
-🔸 Hands-on experience with ORM tools like Sequalize, Prisma, Tortoise ORM, Entity Framework Core.
-🔸 Building JWT to secure web APIs.
+- 🔸 Create efficient and Scalable APIs using Node.js, Express.js, C# (.NET), Python (Django, FastAPI). PHP(Laravel)
+- 🔸 Hands-on experience with ORM tools like Sequalize, Prisma, Tortoise ORM, Entity Framework Core.
+- 🔸 Building JWT to secure web APIs.
 
 ✅ 𝗙𝗥𝗢𝗡𝗧-𝗘𝗡𝗗:
 🔸 React/Next: for developing interactive UI’s
