@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Abraham Shimekt
 
-## Passionate Python .Net Core Node.js Express.js Next.js/React Developer
+## Python .Net Core Node.js Express.js Next.js/React Developer
 
 💫𝗕𝗦𝗰(Great Distinction) 𝗶𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 (𝗔𝗜) with 5+ years of experience, I excel at crafting robust and user-focused cross-platform applications tailored for both startups and established enterprises.
 
