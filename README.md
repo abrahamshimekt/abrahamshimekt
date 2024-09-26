@@ -6,31 +6,48 @@
 
 🎯 Committed to delivering exceptional results, I continuously aim to exceed client expectations, ensuring timely delivery and top-notch quality in every project undertaken.
 
-### 🚀 Skills
+🚀𝗦𝗞𝗜𝗟𝗟 𝗦𝗘𝗧:
 
-- **Web Technologies:**
-  - React, Next.js, TypeScript, JavaScript
-  - HTML, CSS, Tailwind CSS, Shadcn UI
+✅ 𝗕𝗔𝗖𝗞 - 𝗘𝗡𝗗:
+🔸 Create efficient and Scalable APIs using Node.js, Express.js, C# (.NET), Python (Django, FastAPI). PHP(Laravel)
+🔸 Hands-on experience with ORM tools like Sequalize, Prisma, Tortoise ORM, Entity Framework Core.
+🔸 Building JWT to secure web APIs.
 
-- **Backend Technologies:**
-  - Node.js, Express.js,Django, Flask, FastApi
-  - SQL, MongoDB
-  - REST API, tRPC, Prisma
-    
-- **Machine Learning:**
-  - Python (Scikit-learn, TensorFlow, PyTorch)
-  - Natural Language Processing (NLP), Image Recognition
-  - LLM
+✅ 𝗙𝗥𝗢𝗡𝗧-𝗘𝗡𝗗:
+🔸 React/Next: for developing interactive UI’s
+🔸 Redux: for managing the application state.
+🔸 Tailwind CSS: Design pages that are responsive.
+🔸 Configure Material UI native components.
 
-- **Infrastructure and Deployment:**
-  - Vercel, Render, GCP, AWS, DigitalOcean, Heroku
-  - Docker, Kubernetes
+✅ 𝗠𝗢𝗕𝗜𝗟𝗘 𝗔𝗣𝗣:
+🔸 Flutter | Dart
 
-- **Version Control:**
-  - Git (GitHub), GitLab
+✅ 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚:
+🔸 Computer Vision
+🔸 Deep Learning
+🔸 Transformers, including BERT
+🔸 Pandas
+🔸 NumPy
+🔸 TensorFlow and PyTorch
 
-- **Operating Systems:**
-  - Linux, Windows
+✅ 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘:
+🔸 SQL
+🔸 MySQL
+🔸 PostgreSQL
+🔸 MongoDB
+🔸 Firebase
+🔸 VectorDB (PineCone)
+
+✅ 𝗦𝗖𝗥𝗔𝗣𝗜𝗡𝗚:
+🔸 Web Scraping and Data Analysis: Selenium, BeautifulSoup.
+
+✅ 𝗢𝗧𝗛𝗘𝗥𝗦:
+🔸 Version Control: Git | GitHub
+🔸 Docker
+🔸 AWS
+🔸 GCP
+🔸 Vercel
+🔸 Render
 
 ### 📊 GitHub Stats
 
