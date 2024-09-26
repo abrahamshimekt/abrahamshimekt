@@ -18,6 +18,7 @@ Welcome to my GitHub! I'm Abraham Shimekt, a dedicated frontend developer with a
 - **Machine Learning:**
   - Python (Scikit-learn, TensorFlow, PyTorch)
   - Natural Language Processing (NLP), Image Recognition
+  - LLM
 
 - **Infrastructure and Deployment:**
   - Vercel, Render, GCP, AWS, DigitalOcean, Heroku
