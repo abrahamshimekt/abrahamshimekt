@@ -26,6 +26,7 @@
 - Pandas
 - NumPy
 - TensorFlow and PyTorch
+- LLM
 
 ✅ 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘:
 - SQL
