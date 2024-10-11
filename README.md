@@ -36,9 +36,6 @@
 - Firebase
 - VectorDB (PineCone)
 
-✅ 𝗦𝗖𝗥𝗔𝗣𝗜𝗡𝗚:
-- Web Scraping and Data Analysis: Selenium, BeautifulSoup.
-
 ✅ 𝗢𝗧𝗛𝗘𝗥𝗦:
 - Version Control: Git | GitHub
 - Docker
